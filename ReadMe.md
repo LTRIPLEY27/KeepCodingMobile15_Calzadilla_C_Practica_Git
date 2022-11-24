@@ -4,9 +4,13 @@
 # Práctica del curso de git, gitHub y Sourcetree
 
 Información de contacto del profesor:
+</br>
 Alberto Casero
+</br>
 acasero@agbotraining.com
+</br>
 Skype: kas.appeal
+</br>
 Twitter: @KasAppeal
 
 
